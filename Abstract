@@ -1,0 +1,7 @@
+# Abstract
+
+In these times of great access to information and products, people need recommender systems to be able to find interesting and novel content.
+However, this often comes at a great cost of giving a particular company a lot of personal information. I plan on leveraging the social media 
+platform of Reddit to find the interests of a particular user(redditor) and suggesting products that other, similar redditors find cool.
+In this way, I hope to encourage a coomunity where people can find like minded peers and share ideas and content with each other without sharing 
+personal details.
