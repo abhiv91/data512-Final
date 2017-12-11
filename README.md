@@ -1,6 +1,8 @@
 # data512-Final
 
-This is a product recommendation engine that utilizes Reddit comments to suggest cool products for users. Refer to 'Recommender.ipynb'. The instructions of how to use the code are in the note book but if you do not want to read the code, simply call the 'main' function with your reddit username in the format: main('username'). 
+This is a product recommendation engine that utilizes Reddit comments to suggest cool products for users. Refer to 'Recommender.ipynb'. The instructions of how to use the code are in the note book but if you do not want to read the code, simply call the 'main' function with your reddit username in the format: main('username').  
+
+The file 'newlist.csv' is the dataset that the script uses. The script also saves a copy of the interests of the redditors in my database so that I do not have to run the Reddit api and pull all their comments everytime a user wants to user my tool. This is saved in redditproducts.csv.
 
 I would like to thank Aakash Japi for his help. I have his permission to utlize his code, and even though I ended up not using any of it, a lot of this project is based on similar ideas.  Refer to his excellent blogpost on using reddit comments to find similar redditors, which I used as inspiration over here: http://aakashjapi.com/recommending-subreddits-by-computing-user-similarity-an-introduction-to-machine-learning/
 
