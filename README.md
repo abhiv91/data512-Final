@@ -1,4 +1,5 @@
 # data512-Final
+PSA when running this script, import redditproducts.csv and run the code with that to format the data. This will save you a lot of time
 
 This is a product recommendation engine that utilizes Reddit comments to suggest cool products for users. Refer to 'Recommender.ipynb'. The instructions of how to use the code are in the note book but if you do not want to read the code, simply call the 'main' function with your reddit username in the format: main('username').  
 
